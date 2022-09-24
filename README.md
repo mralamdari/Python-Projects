@@ -1,5 +1,5 @@
 # Python Projects
-This repository, contains 
+This repository, contains several 
 Robotics in Python
 #### This repository
 ###### there are some the usefull functions for robotics, like;
