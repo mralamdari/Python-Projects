@@ -5,7 +5,7 @@ This repository, contains several projects about various topics in Python, like:
 ##### some usefull functions for robotics;
 ##### Forward Synematic
 ##### Transforms
-###### Rotations and Trajectory.
+##### Rotations and Trajectory.
 
 ## 2.Data Pre Processing
 
