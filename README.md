@@ -11,4 +11,4 @@ This repository, contains several projects about various topics in Python, like:
 
 ## 3. Digit Recognizer
 
-The project with the help of machinelearning and deeplearning.
+The project with the help of machine learning and deeplearning.
