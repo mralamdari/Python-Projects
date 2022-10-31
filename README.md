@@ -9,7 +9,7 @@ This repository, contains several projects about various topics in Python, like:
 
 ## 2.Data Pre Processing
 
-## 3. Digit Recognizer
+## 3. Digit Recogn
 
 The project with the help of machine learning and deep learning,
 To recognize Digits.
